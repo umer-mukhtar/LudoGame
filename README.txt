@@ -2,9 +2,9 @@ This is the Ludo Board Game created in the language C++. The graphics have been 
 *
 To play the game, you need to do the following:
 (These instructions are for Linux. If you're using Windows/Mac I recommend searching for a tutorial on youtube/google regarding running OpenGL C++ projects on the respective operating system (Sorry)
-
 *
-a) Open the terminal and navigate to the path of this directory
+a) Download the ZIP file and extract it
+a) Open the terminal and navigate to the path of the extracted directory
 b) Install the required libraries by executing the command: bash install-libraries.sh
 c) Compile the project by writing the command: make
 d) Run the main file by writing the command: ./game
